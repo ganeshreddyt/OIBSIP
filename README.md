@@ -7,8 +7,8 @@ Welcome to my Data Science journey! As part of my internship experience, I’ve 
 ## 🌸 Task-1: Iris Flower Classification
 
 - **Objective:** Classify Iris flowers into three species based on measurements like sepal length, sepal width, petal length, and petal width.
-- **Dataset:** [Iris.csv](./Iris.csv)
-- **Notebook:** [task-1.ipynb](./task-1.ipynb)
+- **Dataset:** [Iris.csv](./task-1/Iris.csv)
+- **Notebook:** [task-1.ipynb](./task-1/IRIS Flower Classification task-1.ipynb)
 
 ---
 
