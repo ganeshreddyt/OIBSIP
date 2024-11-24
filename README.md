@@ -18,7 +18,7 @@ Welcome to my Data Science journey! As part of my internship experience, I’ve 
 - **Datasets:** 
   - [Unemployment in India.csv](./task-2/Unemployment%20in%20India.csv)
   - [Unemployment_Rate_upto_11_2020.csv](./task-2/Unemployment_Rate_upto_11_2020.csv)
-- **Notebook:** [task-2.ipynb](./task-2/Unemployement%20Analysis%20with%20Python%20task-2.ipynb)
+- **Notebook:** [task-2.ipynb](./task-2/Unemployment%20Analysis%20with%20Python%20task-2.ipynb)
 
 ---
 
