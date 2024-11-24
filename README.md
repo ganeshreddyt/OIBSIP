@@ -25,24 +25,24 @@ Welcome to my Data Science journey! As part of my internship experience, I’ve 
 ## 🚗 Task-3: Car Price Prediction with Machine Learning
 
 - **Objective:** Build a predictive model to estimate car prices based on various features like make, model, year, mileage, etc.
-- **Dataset:** [car data.csv](./car%20data.csv)
-- **Notebook:** [task-3.ipynb](./task-3.ipynb)
+- **Dataset:** [car data.csv](./task-3/car%20data.csv)
+- **Notebook:** [task-3.ipynb](./task-3/Car%20Price%20prediction%20with%20Machine%20Learning%20task-3.ipynb)
 
 ---
 
 ## 📧 Task-4: Email Spam Detection with Machine Learning
 
 - **Objective:** Develop a model that can classify emails as spam or not spam based on their content.
-- **Dataset:** [spam.csv](./spam.csv)
-- **Notebook:** [task-4.ipynb](./task-4.ipynb)
+- **Dataset:** [spam.csv](./task-4/spam.csv)
+- **Notebook:** [task-4.ipynb](./task-4/Email%20Spam%20Detection%20with%20Machine%20Learning%20task-4.ipynb)
 
 ---
 
 ## 💼 Task-5: Sales Prediction using Python
 
 - **Objective:** Predict sales based on advertising expenditure (TV, radio, and newspaper ads) to optimize marketing strategies.
-- **Dataset:** [Advertising.csv](./Advertising.csv)
-- **Notebook:** [task-5.ipynb](./task-5.ipynb)
+- **Dataset:** [Advertising.csv](./task-5/Advertising.csv)
+- **Notebook:** [task-5.ipynb](./task-5/Sales%20Prediction%20using%20Python%20task-5.ipynb)
 
 ---
 
