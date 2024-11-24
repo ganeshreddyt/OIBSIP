@@ -1,4 +1,4 @@
-# Data Science Internshi[p @Oasis Infobytes
+# Data Science Internship @ OasisInfobytes
 
 Welcome to my Data Science journey! As part of my internship experience, I’ve gained hands-on expertise in a variety of data science tasks. Below is a list of projects I have worked on, each designed to showcase my skills in data analysis, machine learning, and predictive modeling.
 
@@ -18,7 +18,7 @@ Welcome to my Data Science journey! As part of my internship experience, I’ve 
 - **Datasets:** 
   - [Unemployment in India.csv](./Unemployment%20in%20India.csv)
   - [Unemployment_Rate_upto_11_2020.csv](./Unemployment_Rate_upto_11_2020.csv)
-- **Notebook:** [task-2.ipynb](./task-2.ipynb)
+- **Notebook:** [task-2.ipynb](./Unemployement%20Analysis%20with%20Python%20task-2.ipynb)
 
 ---
 
